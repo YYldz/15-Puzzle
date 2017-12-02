@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>cactaur.png</Source>
+      <Name>cactaur</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 2 - 15 spelet\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\Content\cactaur.xnb</Output>
+      <Time>2013-10-15T10:45:22+02:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 2 - 15 spelet\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2013-10-20T14:47:12+02:00</Time>
+    </Item>
+    <Item>
+      <Source>Wildlife.wmv</Source>
+      <Name>Wildlife</Name>
+      <Importer>WmvImporter</Importer>
+      <Processor>VideoProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Coldii\Dropbox\Programmering\Projekt 2 - 15 spelet\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\Content\Wildlife.xnb</Output>
+      <Extra>C:\Users\Coldii\Dropbox\Programmering\Projekt 2 - 15 spelet\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\Content\Wildlife.wmv</Extra>
+      <Time>2013-10-21T18:11:23+02:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Coldii\Dropbox\Programmering\Projekt 2 - 15 spelet\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_YildizContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Coldii\Dropbox\Programmering\Projekt 2 - 15 spelet\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Coldii\Dropbox\Programmering\Projekt 2 - 15 spelet\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_YildizContent\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Coldii\Dropbox\Programmering\Projekt 2 - 15 spelet\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\15_spelet_av_Yakup_Yildiz\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18+02:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2013-09-03T03:46:07.5293351+02:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>
